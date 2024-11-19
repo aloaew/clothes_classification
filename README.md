@@ -4,8 +4,7 @@ This project demonstrates an image classification application using both a custo
 # Demo 🚀
 https://clothesclassification-8zdkbaauyd8jegrahdd7py.streamlit.app/
 
-![image](https://github.com/user-attachments/assets/b5f7bb2a-87dc-43c3-b08d-ded76f6f161e)
-![image](https://github.com/user-attachments/assets/103e3189-d0a0-4e86-92a9-e46d186eb5fb)
+![image](https://github.com/user-attachments/assets/65c40c2f-91fd-4dcf-aa02-e9ad3382fe7c)
 
 
 # Features:
