@@ -41,7 +41,8 @@ The model is trained to classify images into the following 10 categories:
 - Bag
 - Ankle boot
   
-![image](https://github.com/user-attachments/assets/0031dcce-a0b6-493d-8d57-ba726e7d6abe)
+![image](https://github.com/user-attachments/assets/4c9e4907-0dd7-465f-af18-ba104f3acb17)
+
 
 # Contributions
 Feel free to fork this repository, make changes, and submit pull requests. Contributions are always welcome!
